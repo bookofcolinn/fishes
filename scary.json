@@ -1,0 +1,15 @@
+{
+  "name": "Scary",
+  "description": "This fish often scares away bigger predators.",
+  "image": "https://imgur.com/a/ugXCk1R",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Purple"
+    }
+  ]
+}
