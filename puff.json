@@ -1,0 +1,15 @@
+{
+  "name": "Puff",
+  "description": "This fish puffs up when in danger and its spikes protects it.",
+  "image": "https://imgur.com/a/tIAveUt",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Orange"
+    }
+  ]
+}
