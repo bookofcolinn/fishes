@@ -1,0 +1,15 @@
+{
+  "name": "Bluey",
+  "description": "This fish is know for its beautiful blue scales.",
+  "image": "https://imgur.com/a/bluey-fish-RSTetN2",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Blue"
+    }
+  ]
+}
