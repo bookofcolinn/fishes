@@ -1,0 +1,15 @@
+{
+  "name": "Red",
+  "description": "This fish is known for its bright red scales.",
+  "image": "https://imgur.com/a/drQnEPc",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Color",
+      "value": "red"
+    }
+  ]
+}
