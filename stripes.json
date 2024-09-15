@@ -1,0 +1,15 @@
+{
+  "name": "Stripes",
+  "description": "This fish is know for its bright stripes.",
+  "image": "https://imgur.com/a/UzsSifw",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Purple"
+    }
+  ]
+}
